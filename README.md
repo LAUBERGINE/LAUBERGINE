@@ -40,4 +40,11 @@ int main() {
 ```bash
 cv.eggplants.fr
 ```
+## TO-DO LIST PROJECT 2024
 
+⬜️ Password Manager with GUI (PlantsPASS) <br>
+⬜️ My Personalised CSS Page <br>
+⬜️ ??? <br>
+⬜️ ??? <br>
+⬜️ ??? <br>
+⬜️ One Day One Commit <br>
