@@ -43,6 +43,7 @@ int main() {
 cv.eggplants.fr
 ```
 </a>
+
 ## 📋 TO-DO LIST PROJECTS 2024
 
 ⬜️ Password Manager with GUI (PlantsPASS) <br>
