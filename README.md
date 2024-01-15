@@ -37,9 +37,12 @@ int main() {
 	return 0;
 }
 ```
+<a href="http://cv.eggplants.fr">
+	
 ```bash
 cv.eggplants.fr
 ```
+</a>
 ## 📋 TO-DO LIST PROJECTS 2024
 
 ⬜️ Password Manager with GUI (PlantsPASS) <br>
