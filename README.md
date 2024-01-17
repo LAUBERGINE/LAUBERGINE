@@ -31,7 +31,7 @@ int main() {
 	char domain[21] = "eggplants.fr";
 	  
 	char *urlcv = monCv(subdomain, domain);
-	printf("%s\n", result);
+	printf("%s\n", urlcv);
 	free(urlcv);
 	
 	return 0;
