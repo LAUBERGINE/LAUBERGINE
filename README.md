@@ -48,7 +48,7 @@ cv.eggplants.fr
 
 ⬜️ Password Manager with GUI (PlantsPASS) <br>
 ⬜️ My Personalised CSS Page <br>
-⬜️ ??? <br>
+⬜️ Editeur de texte en ligne (PlantsText) <br>
 ⬜️ ??? <br>
 ⬜️ ??? <br>
 ⬜️ One Day One Commit <br>
