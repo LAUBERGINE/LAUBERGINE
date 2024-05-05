@@ -51,4 +51,3 @@ cv.eggplants.fr
 ⬜️ Editeur de texte en ligne (PlantsText) <br>
 ⬜️ ??? <br>
 ⬜️ ??? <br>
-⬜️ One Day One Commit <br>
